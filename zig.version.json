@@ -1,25 +1,15 @@
 {
   "0.1.1": [
     {
-      "Url": "https://ziglang.org/download/0.1.1/zig-win64-0.1.1.zip",
-      "Arch": "amd64",
-      "Os": "windows",
+      "Url": "https://ziglang.org/download/0.2.0/zig-linux-x86_64-0.2.0.tar.xz",
+      "Arch": "386",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
       "Extra": ""
     }
   ],
   "0.10.0": [
-    {
-      "Url": "https://ziglang.org/download/0.10.0/zig-freebsd-x86_64-0.10.0.tar.xz",
-      "Arch": "386",
-      "Os": "freebsd",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    }
-  ],
-  "0.10.1": [
     {
       "Url": "https://ziglang.org/download/0.10.1/zig-linux-riscv64-0.10.1.tar.xz",
       "Arch": "",
@@ -29,27 +19,27 @@
       "Extra": ""
     }
   ],
-  "0.11.0": [
+  "0.10.1": [
     {
       "Url": "https://ziglang.org/download/0.11.0/zig-freebsd-x86_64-0.11.0.tar.xz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "freebsd",
       "Sum": "",
       "SumType": "",
       "Extra": ""
     }
   ],
-  "0.2.0": [
+  "0.11.0": [
     {
-      "Url": "https://ziglang.org/download/0.2.0/zig-linux-x86_64-0.2.0.tar.xz",
-      "Arch": "386",
+      "Url": "https://ziglang.org/builds/zig-linux-powerpc64le-0.12.0-dev.3059+27f589dea.tar.xz",
+      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
       "Extra": ""
     }
   ],
-  "0.3.0": [
+  "0.2.0": [
     {
       "Url": "https://ziglang.org/download/0.3.0/zig-linux-x86_64-0.3.0.tar.xz",
       "Arch": "amd64",
@@ -59,9 +49,19 @@
       "Extra": ""
     }
   ],
-  "0.4.0": [
+  "0.3.0": [
     {
       "Url": "https://ziglang.org/download/0.4.0/zig-freebsd-x86_64-0.4.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.4.0": [
+    {
+      "Url": "https://ziglang.org/download/0.5.0/zig-freebsd-x86_64-0.5.0.tar.xz",
       "Arch": "386",
       "Os": "freebsd",
       "Sum": "",
@@ -71,7 +71,7 @@
   ],
   "0.5.0": [
     {
-      "Url": "https://ziglang.org/download/0.5.0/zig-freebsd-x86_64-0.5.0.tar.xz",
+      "Url": "https://ziglang.org/download/0.6.0/zig-freebsd-x86_64-0.6.0.tar.xz",
       "Arch": "amd64",
       "Os": "freebsd",
       "Sum": "",
@@ -81,7 +81,7 @@
   ],
   "0.6.0": [
     {
-      "Url": "https://ziglang.org/download/0.6.0/zig-freebsd-x86_64-0.6.0.tar.xz",
+      "Url": "https://ziglang.org/download/0.7.0/zig-freebsd-x86_64-0.7.0.tar.xz",
       "Arch": "amd64",
       "Os": "freebsd",
       "Sum": "",
@@ -91,7 +91,7 @@
   ],
   "0.7.0": [
     {
-      "Url": "https://ziglang.org/download/0.7.0/zig-freebsd-x86_64-0.7.0.tar.xz",
+      "Url": "https://ziglang.org/download/0.7.1/zig-freebsd-x86_64-0.7.1.tar.xz",
       "Arch": "amd64",
       "Os": "freebsd",
       "Sum": "",
@@ -101,8 +101,8 @@
   ],
   "0.7.1": [
     {
-      "Url": "https://ziglang.org/download/0.7.1/zig-freebsd-x86_64-0.7.1.tar.xz",
-      "Arch": "386",
+      "Url": "https://ziglang.org/download/0.8.0/zig-freebsd-x86_64-0.8.0.tar.xz",
+      "Arch": "amd64",
       "Os": "freebsd",
       "Sum": "",
       "SumType": "",
@@ -111,7 +111,7 @@
   ],
   "0.8.0": [
     {
-      "Url": "https://ziglang.org/download/0.8.0/zig-freebsd-x86_64-0.8.0.tar.xz",
+      "Url": "https://ziglang.org/download/0.8.1/zig-freebsd-x86_64-0.8.1.tar.xz",
       "Arch": "amd64",
       "Os": "freebsd",
       "Sum": "",
@@ -121,16 +121,6 @@
   ],
   "0.8.1": [
     {
-      "Url": "https://ziglang.org/download/0.8.1/zig-freebsd-x86_64-0.8.1.tar.xz",
-      "Arch": "386",
-      "Os": "freebsd",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    }
-  ],
-  "0.9.0": [
-    {
       "Url": "https://ziglang.org/download/0.9.0/zig-freebsd-x86_64-0.9.0.tar.xz",
       "Arch": "amd64",
       "Os": "freebsd",
@@ -139,9 +129,19 @@
       "Extra": ""
     }
   ],
-  "0.9.1": [
+  "0.9.0": [
     {
       "Url": "https://ziglang.org/download/0.9.1/zig-freebsd-x86_64-0.9.1.tar.xz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.9.1": [
+    {
+      "Url": "https://ziglang.org/download/0.10.0/zig-freebsd-x86_64-0.10.0.tar.xz",
       "Arch": "amd64",
       "Os": "freebsd",
       "Sum": "",
