@@ -3,14 +3,14 @@
     {
       "Url": "https://go.dev/dl/go1.4-bootstrap-20170518.tar.gz",
       "Arch": "bootstrap",
-      "Os": "4",
+      "Os": "bootstrap",
       "Sum": "c17d5ef6d49ae448f61f9ae812f0750f49e405a193667b4cd330ca594b65fc3a",
       "SumType": "SHA256"
     },
     {
       "Url": "https://go.dev/dl/go1.4-bootstrap-20170531.tar.gz",
       "Arch": "bootstrap",
-      "Os": "4",
+      "Os": "bootstrap",
       "Sum": "49f806f66762077861b7de7081f586995940772d29d4c45068c134441a743fa2",
       "SumType": "SHA256"
     }
