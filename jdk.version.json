@@ -6,7 +6,7 @@
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "LTS$injdk.cn"
+      "Extra": "LTS,injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/11/jdk-11.0.21_macos-x64_bin.tar.gz",
@@ -14,7 +14,7 @@
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "LTS$injdk.cn"
+      "Extra": "LTS,injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/11/jdk-11.0.21_macos-aarch64_bin.tar.gz",
@@ -22,7 +22,7 @@
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "LTS$injdk.cn"
+      "Extra": "LTS,injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/11/jdk-11.0.21_linux-x64_bin.tar.gz",
@@ -30,7 +30,7 @@
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "LTS$injdk.cn"
+      "Extra": "LTS,injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/11/jdk-11.0.21_linux-aarch64_bin.tar.gz",
@@ -38,7 +38,7 @@
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "LTS$injdk.cn"
+      "Extra": "LTS,injdk.cn"
     }
   ],
   "17": [
@@ -48,7 +48,7 @@
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "LTS$injdk.cn"
+      "Extra": "LTS,injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/17/jdk-17_macos-x64_bin.tar.gz",
@@ -56,7 +56,7 @@
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "LTS$injdk.cn"
+      "Extra": "LTS,injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/17/jdk-17_macos-aarch64_bin.tar.gz",
@@ -64,7 +64,7 @@
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "LTS$injdk.cn"
+      "Extra": "LTS,injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/17/jdk-17_linux-x64_bin.tar.gz",
@@ -72,7 +72,7 @@
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "LTS$injdk.cn"
+      "Extra": "LTS,injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/17/jdk-17_linux-aarch64_bin.tar.gz",
@@ -80,7 +80,7 @@
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "LTS$injdk.cn"
+      "Extra": "LTS,injdk.cn"
     },
     {
       "Url": "https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.tar.gz",
@@ -154,7 +154,7 @@
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "$injdk.cn"
+      "Extra": ",injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/21/jdk-21_macos-x64_bin.tar.gz",
@@ -162,7 +162,7 @@
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "$injdk.cn"
+      "Extra": ",injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/21/jdk-21_macos-aarch64_bin.tar.gz",
@@ -170,7 +170,7 @@
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "$injdk.cn"
+      "Extra": ",injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/21/jdk-21_linux-x64_bin.tar.gz",
@@ -178,7 +178,7 @@
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "$injdk.cn"
+      "Extra": ",injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/21/jdk-21_linux-aarch64_bin.tar.gz",
@@ -186,7 +186,7 @@
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "$injdk.cn"
+      "Extra": ",injdk.cn"
     },
     {
       "Url": "https://download.oracle.com/java/21/latest/jdk-21_linux-x64_bin.tar.gz",
@@ -260,7 +260,7 @@
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "LTS$injdk.cn"
+      "Extra": "LTS,injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/8/jdk-8u381-linux-i586.tar.gz",
@@ -268,7 +268,7 @@
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "LTS$injdk.cn"
+      "Extra": "LTS,injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/8/jdk-8u381-linux-x64.tar.gz",
@@ -276,7 +276,7 @@
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "LTS$injdk.cn"
+      "Extra": "LTS,injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/8/jdk-8u381-linux-aarch64.tar.gz",
@@ -284,7 +284,7 @@
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "LTS$injdk.cn"
+      "Extra": "LTS,injdk.cn"
     },
     {
       "Url": "https://d6.injdk.cn/oraclejdk/8/jdk-8u381-linux-arm32-vfp-hflt.tar.gz",
@@ -292,7 +292,7 @@
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "LTS$injdk.cn"
+      "Extra": "LTS,injdk.cn"
     }
   ]
 }
