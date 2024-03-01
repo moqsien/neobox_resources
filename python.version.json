@@ -1098,15 +1098,5 @@
       "SumType": "",
       "Extra": "please use conda to install."
     }
-  ],
-  "All": [
-    {
-      "Url": "",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "please use conda to install."
-    }
   ]
 }
