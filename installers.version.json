@@ -12,7 +12,7 @@
   "miniconda": [
     {
       "Url": "https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "ff53a36b7024f8398cbfd043020f1f662cd4c5c2095c0007ddb4348aa5459375",
       "SumType": "sha256",
@@ -27,26 +27,10 @@
       "Extra": "24.1.2"
     },
     {
-      "Url": "https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.pkg",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "a546c94bde8ee5e777f2047eec75a52c05a9ac8f90d7e13fe04fdfd72479a6c4",
-      "SumType": "sha256",
-      "Extra": "24.1.2"
-    },
-    {
       "Url": "https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh",
       "Arch": "arm64",
       "Os": "darwin",
       "Sum": "1c277b1ec046fd1b628390994e3fa3dbac0e364f44cd98b915daaa67a326c66a",
-      "SumType": "sha256",
-      "Extra": "24.1.2"
-    },
-    {
-      "Url": "https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.pkg",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "cd94c9d95fc7417eca152ce6818c35dd9067cc9dd554918be600314b11cd86d2",
       "SumType": "sha256",
       "Extra": "24.1.2"
     },
@@ -140,7 +124,7 @@
     },
     {
       "Url": "https://repo.anaconda.com/miniconda/Miniconda2-latest-Windows-x86_64.exe",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "6973025404832944e074bf02bda8c4594980eeed4707bb51baa8fbdba4bf326c",
       "SumType": "sha256",
@@ -148,17 +132,9 @@
     },
     {
       "Url": "https://repo.anaconda.com/miniconda/Miniconda2-latest-Linux-x86_64.sh",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "b820dde1a0ba868c4c948fe6ace7300a252b33b5befd078a15d4a017476b8979",
-      "SumType": "sha256",
-      "Extra": "24.1.2"
-    },
-    {
-      "Url": "https://repo.anaconda.com/miniconda/Miniconda2-latest-MacOSX-x86_64.pkg",
-      "Arch": "386",
-      "Os": "darwin",
-      "Sum": "9ca4313e8162a939c7a5a4f48d657722594f8db9a98472803d63c3a7f66fa1da",
       "SumType": "sha256",
       "Extra": "24.1.2"
     },
