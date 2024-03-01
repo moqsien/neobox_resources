@@ -36,7 +36,7 @@
     },
     {
       "Url": "https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "b978856ec3c826eb495b60e3fffe621f670c101150ebcbdeede4f961f22dc438",
       "SumType": "sha256",
@@ -124,7 +124,7 @@
     },
     {
       "Url": "https://repo.anaconda.com/miniconda/Miniconda2-latest-Windows-x86_64.exe",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "6973025404832944e074bf02bda8c4594980eeed4707bb51baa8fbdba4bf326c",
       "SumType": "sha256",
