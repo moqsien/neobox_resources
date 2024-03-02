@@ -34,7 +34,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.10.0/ripgrep-0.10.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -50,7 +50,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.10.0/ripgrep-0.10.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -58,7 +58,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.10.0/ripgrep-0.10.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -108,7 +108,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.2.6/ripgrep-0.2.6-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -116,7 +116,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.2.6/ripgrep-0.2.6-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -150,7 +150,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.2.8/ripgrep-0.2.8-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -158,7 +158,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.2.8/ripgrep-0.2.8-x86_64-pc-windows-gnu.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -174,7 +174,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.2.8/ripgrep-0.2.8-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -208,7 +208,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.2.9/ripgrep-0.2.9-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -216,7 +216,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.2.9/ripgrep-0.2.9-x86_64-pc-windows-gnu.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -224,7 +224,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.2.9/ripgrep-0.2.9-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -232,7 +232,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.2.9/ripgrep-0.2.9-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -274,7 +274,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.3.0/ripgrep-0.3.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -290,7 +290,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.3.0/ripgrep-0.3.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -324,7 +324,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.3.1/ripgrep-0.3.1-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -348,7 +348,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.3.1/ripgrep-0.3.1-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -382,7 +382,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.3.2/ripgrep-0.3.2-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -406,7 +406,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.3.2/ripgrep-0.3.2-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -448,7 +448,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.4.0/ripgrep-0.4.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -456,7 +456,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.4.0/ripgrep-0.4.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -522,7 +522,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.5.0/ripgrep-0.5.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -556,7 +556,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.5.1/ripgrep-0.5.1-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -580,7 +580,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.5.1/ripgrep-0.5.1-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -614,7 +614,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.5.2/ripgrep-0.5.2-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -630,7 +630,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.5.2/ripgrep-0.5.2-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -638,7 +638,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.5.2/ripgrep-0.5.2-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -672,7 +672,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.6.0/ripgrep-0.6.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -688,7 +688,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.6.0/ripgrep-0.6.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -746,7 +746,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.7.0/ripgrep-0.7.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -754,7 +754,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.7.0/ripgrep-0.7.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -796,7 +796,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.7.1/ripgrep-0.7.1-x86_64-pc-windows-gnu.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -804,7 +804,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.7.1/ripgrep-0.7.1-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -854,7 +854,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.8.0/ripgrep-0.8.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -870,7 +870,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.8.0/ripgrep-0.8.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -920,7 +920,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.8.1/ripgrep-0.8.1-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -936,7 +936,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.8.1/ripgrep-0.8.1-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -944,7 +944,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/0.8.1/ripgrep-0.8.1-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1060,7 +1060,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/11.0.0/ripgrep-11.0.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1076,7 +1076,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/11.0.0/ripgrep-11.0.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1118,7 +1118,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/11.0.1/ripgrep-11.0.1-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1142,7 +1142,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/11.0.1/ripgrep-11.0.1-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1192,7 +1192,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/11.0.2/ripgrep-11.0.2-x86_64-pc-windows-gnu.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1200,7 +1200,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/11.0.2/ripgrep-11.0.2-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1208,7 +1208,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/11.0.2/ripgrep-11.0.2-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1234,7 +1234,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/12.0.0/ripgrep-12.0.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1250,7 +1250,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/12.0.0/ripgrep-12.0.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1292,14 +1292,6 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/12.0.1/ripgrep-12.0.1-x86_64-pc-windows-gnu.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/BurntSushi/ripgrep/releases/download/12.0.1/ripgrep-12.0.1-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
@@ -1307,8 +1299,16 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/BurntSushi/ripgrep/releases/download/12.0.1/ripgrep-12.0.1-x86_64-unknown-linux-musl.tar.gz",
+      "Url": "https://github.com/BurntSushi/ripgrep/releases/download/12.0.1/ripgrep-12.0.1-x86_64-pc-windows-msvc.zip",
       "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/BurntSushi/ripgrep/releases/download/12.0.1/ripgrep-12.0.1-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1334,7 +1334,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/12.1.0/ripgrep-12.1.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1342,7 +1342,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/12.1.0/ripgrep-12.1.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1350,7 +1350,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/12.1.0/ripgrep-12.1.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1358,7 +1358,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/12.1.0/ripgrep-12.1.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1384,7 +1384,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/12.1.1/ripgrep-12.1.1-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1392,7 +1392,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/12.1.1/ripgrep-12.1.1-x86_64-pc-windows-gnu.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1408,7 +1408,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/12.1.1/ripgrep-12.1.1-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1442,7 +1442,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/13.0.0/ripgrep-13.0.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1450,7 +1450,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/13.0.0/ripgrep-13.0.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1516,7 +1516,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/14.0.0/ripgrep-14.0.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1524,7 +1524,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/14.0.0/ripgrep-14.0.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1598,7 +1598,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/14.0.1/ripgrep-14.0.1-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1680,7 +1680,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/14.0.2/ripgrep-14.0.2-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1688,7 +1688,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/14.0.2/ripgrep-14.0.2-x86_64-pc-windows-gnu.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1696,7 +1696,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/14.0.2/ripgrep-14.0.2-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1704,7 +1704,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/14.0.2/ripgrep-14.0.2-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1778,7 +1778,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/14.0.3/ripgrep-14.0.3-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1868,7 +1868,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/14.1.0/ripgrep-14.1.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
