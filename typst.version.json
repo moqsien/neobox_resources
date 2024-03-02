@@ -2,7 +2,7 @@
   "v0.1.0": [
     {
       "Url": "https://github.com/typst/typst/releases/download/v0.1.0/typst-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -18,7 +18,7 @@
     },
     {
       "Url": "https://github.com/typst/typst/releases/download/v0.1.0/typst-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -60,7 +60,7 @@
     },
     {
       "Url": "https://github.com/typst/typst/releases/download/v0.10.0/typst-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -152,7 +152,7 @@
     },
     {
       "Url": "https://github.com/typst/typst/releases/download/v0.3.0/typst-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -160,7 +160,7 @@
     },
     {
       "Url": "https://github.com/typst/typst/releases/download/v0.3.0/typst-x86_64-unknown-linux-musl.tar.xz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -226,7 +226,7 @@
     },
     {
       "Url": "https://github.com/typst/typst/releases/download/v0.4.0/typst-x86_64-unknown-linux-musl.tar.xz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -276,7 +276,7 @@
     },
     {
       "Url": "https://github.com/typst/typst/releases/download/v0.5.0/typst-x86_64-apple-darwin.tar.xz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -292,7 +292,7 @@
     },
     {
       "Url": "https://github.com/typst/typst/releases/download/v0.5.0/typst-x86_64-unknown-linux-musl.tar.xz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -326,7 +326,7 @@
     },
     {
       "Url": "https://github.com/typst/typst/releases/download/v0.6.0/typst-x86_64-apple-darwin.tar.xz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -384,7 +384,7 @@
     },
     {
       "Url": "https://github.com/typst/typst/releases/download/v0.7.0/typst-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -392,7 +392,7 @@
     },
     {
       "Url": "https://github.com/typst/typst/releases/download/v0.7.0/typst-x86_64-unknown-linux-musl.tar.xz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -434,7 +434,7 @@
     },
     {
       "Url": "https://github.com/typst/typst/releases/download/v0.8.0/typst-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -442,7 +442,7 @@
     },
     {
       "Url": "https://github.com/typst/typst/releases/download/v0.8.0/typst-x86_64-unknown-linux-musl.tar.xz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -476,14 +476,6 @@
     },
     {
       "Url": "https://github.com/typst/typst/releases/download/v0.9.0/typst-x86_64-apple-darwin.tar.xz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/typst/typst/releases/download/v0.9.0/typst-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
@@ -491,8 +483,16 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/typst/typst/releases/download/v0.9.0/typst-x86_64-unknown-linux-musl.tar.xz",
+      "Url": "https://github.com/typst/typst/releases/download/v0.9.0/typst-x86_64-pc-windows-msvc.zip",
       "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/typst/typst/releases/download/v0.9.0/typst-x86_64-unknown-linux-musl.tar.xz",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -528,7 +528,7 @@
   "v23-03-21-2": [
     {
       "Url": "https://github.com/typst/typst/releases/download/v23-03-21-2/typst-x86_64-apple-darwin.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -536,7 +536,7 @@
     },
     {
       "Url": "https://github.com/typst/typst/releases/download/v23-03-21-2/typst-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -554,7 +554,7 @@
   "v23-03-28": [
     {
       "Url": "https://github.com/typst/typst/releases/download/v23-03-28/typst-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -562,7 +562,7 @@
     },
     {
       "Url": "https://github.com/typst/typst/releases/download/v23-03-28/typst-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
