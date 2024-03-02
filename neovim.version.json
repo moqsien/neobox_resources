@@ -18,7 +18,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -44,7 +44,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/stable/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -70,7 +70,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.3.0/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -96,7 +96,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.3.1/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -130,7 +130,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.3.2/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -164,7 +164,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.3.3/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -198,7 +198,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.3.4/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -232,7 +232,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.3.5/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -284,7 +284,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.3.7/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -318,7 +318,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.3.8/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -370,7 +370,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.4.2/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -404,7 +404,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.4.3/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -438,7 +438,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.4.4/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -472,7 +472,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.5.0/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -506,7 +506,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.5.1/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -532,7 +532,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.6.0/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -558,7 +558,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.6.1/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -584,7 +584,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.7.0/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -610,7 +610,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.7.2/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -636,7 +636,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.8.0/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -662,7 +662,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.8.1/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -688,7 +688,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.8.2/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -714,7 +714,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.8.3/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -740,7 +740,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.9.0/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -766,7 +766,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.9.1/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -792,7 +792,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.9.2/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -818,7 +818,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.9.4/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -844,7 +844,7 @@
     },
     {
       "Url": "https://github.com/neovim/neovim/releases/download/v0.9.5/nvim-win64.zip",
-      "Arch": "",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
