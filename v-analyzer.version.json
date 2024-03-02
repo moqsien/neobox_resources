@@ -18,7 +18,7 @@
     },
     {
       "Url": "https://github.com/v-analyzer/v-analyzer/releases/download/0.0.3-beta.1/v-analyzer-linux-x86_64.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -78,7 +78,7 @@
     },
     {
       "Url": "https://github.com/v-analyzer/v-analyzer/releases/download/v0.0.1-beta.1/v-analyzer-darwin-x86_64.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -86,7 +86,7 @@
     },
     {
       "Url": "https://github.com/v-analyzer/v-analyzer/releases/download/v0.0.1-beta.1/v-analyzer-linux-x86_64.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
