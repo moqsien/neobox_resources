@@ -70,7 +70,7 @@
     },
     {
       "Url": "https://github.com/vlang/v/releases/download/0.4.3/v_macos_x86_64.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -486,7 +486,7 @@
     },
     {
       "Url": "https://github.com/vlang/v/releases/download/weekly.2023.48/v_macos_x86_64.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -520,7 +520,7 @@
     },
     {
       "Url": "https://github.com/vlang/v/releases/download/weekly.2023.50/v_macos_x86_64.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -554,7 +554,7 @@
     },
     {
       "Url": "https://github.com/vlang/v/releases/download/weekly.2023.51/v_macos_x86_64.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -622,7 +622,7 @@
     },
     {
       "Url": "https://github.com/vlang/v/releases/download/weekly.2024.01.test2/v_macos_x86_64.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -656,7 +656,7 @@
     },
     {
       "Url": "https://github.com/vlang/v/releases/download/weekly.2024.03/v_macos_x86_64.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -724,7 +724,7 @@
     },
     {
       "Url": "https://github.com/vlang/v/releases/download/weekly.2024.05/v_macos_x86_64.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -758,7 +758,7 @@
     },
     {
       "Url": "https://github.com/vlang/v/releases/download/weekly.2024.06/v_macos_x86_64.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -826,7 +826,7 @@
     },
     {
       "Url": "https://github.com/vlang/v/releases/download/weekly.2024.08/v_macos_x86_64.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -860,7 +860,7 @@
     },
     {
       "Url": "https://github.com/vlang/v/releases/download/weekly.2024.09/v_macos_x86_64.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
