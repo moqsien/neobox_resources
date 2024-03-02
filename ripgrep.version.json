@@ -1500,7 +1500,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/14.0.0/ripgrep-14.0.0-powerpc64-unknown-linux-gnu.tar.gz",
-      "Arch": "",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1582,7 +1582,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/14.0.1/ripgrep-14.0.1-powerpc64-unknown-linux-gnu.tar.gz",
-      "Arch": "",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1664,7 +1664,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/14.0.2/ripgrep-14.0.2-powerpc64-unknown-linux-gnu.tar.gz",
-      "Arch": "",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1746,7 +1746,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/14.0.3/ripgrep-14.0.3-powerpc64-unknown-linux-gnu.tar.gz",
-      "Arch": "",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1852,7 +1852,7 @@
     },
     {
       "Url": "https://github.com/BurntSushi/ripgrep/releases/download/14.1.0/ripgrep-14.1.0-powerpc64-unknown-linux-gnu.tar.gz",
-      "Arch": "",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
