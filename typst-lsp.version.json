@@ -3,7 +3,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.10.0/typst-lsp-aarch64-apple-darwin",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -42,15 +42,15 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.10.0/typst-lsp-x86_64-apple-darwin",
-      "Arch": "386",
-      "Os": "windows",
+      "Arch": "amd64",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.10.0/typst-lsp-x86_64-pc-windows-msvc.exe",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -66,7 +66,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.10.0/typst-lsp-x86_64-unknown-linux-musl",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -77,7 +77,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.10.1/typst-lsp-aarch64-apple-darwin",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -116,15 +116,15 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.10.1/typst-lsp-x86_64-apple-darwin",
-      "Arch": "386",
-      "Os": "windows",
+      "Arch": "amd64",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.10.1/typst-lsp-x86_64-pc-windows-msvc.exe",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -132,7 +132,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.10.1/typst-lsp-x86_64-unknown-linux-gnu",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -151,7 +151,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.11.0/typst-lsp-aarch64-apple-darwin",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -182,8 +182,8 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.11.0/typst-lsp-x86_64-apple-darwin",
-      "Arch": "386",
-      "Os": "windows",
+      "Arch": "amd64",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -198,7 +198,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.11.0/typst-lsp-x86_64-unknown-linux-gnu",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -217,7 +217,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.12.0/typst-lsp-aarch64-apple-darwin",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -249,7 +249,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.12.0/typst-lsp-x86_64-apple-darwin",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -264,7 +264,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.12.0/typst-lsp-x86_64-unknown-linux-gnu",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -283,7 +283,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.12.1/typst-lsp-aarch64-apple-darwin",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -314,15 +314,15 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.12.1/typst-lsp-x86_64-apple-darwin",
-      "Arch": "386",
-      "Os": "windows",
+      "Arch": "amd64",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.12.1/typst-lsp-x86_64-pc-windows-msvc.exe",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -330,7 +330,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.12.1/typst-lsp-x86_64-unknown-linux-gnu",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -338,7 +338,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.12.1/typst-lsp-x86_64-unknown-linux-musl",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -358,7 +358,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.3.1/typst-lsp-darwin-arm64",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -366,7 +366,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.3.1/typst-lsp-darwin-x64",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -397,7 +397,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.3.1/typst-lsp-win32-arm64.exe",
-      "Arch": "386",
+      "Arch": "arm64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -432,7 +432,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.3.2/typst-lsp-darwin-arm64",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -440,7 +440,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.3.2/typst-lsp-darwin-x64",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -506,7 +506,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.4.0/typst-lsp-darwin-arm64",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -514,7 +514,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.4.0/typst-lsp-darwin-x64",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -545,7 +545,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.4.0/typst-lsp-win32-arm64.exe",
-      "Arch": "386",
+      "Arch": "arm64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -561,7 +561,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.4.0/typst-lsp-win32-x64.exe",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -580,7 +580,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.4.1/typst-lsp-darwin-arm64",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -588,7 +588,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.4.1/typst-lsp-darwin-x64",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -655,7 +655,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.5.1/typst-lsp-darwin-arm64",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -663,7 +663,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.5.1/typst-lsp-darwin-x64",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -694,7 +694,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.5.1/typst-lsp-win32-arm64.exe",
-      "Arch": "386",
+      "Arch": "arm64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -731,7 +731,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.6.2/typst-lsp-darwin-arm64",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -739,7 +739,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.6.2/typst-lsp-darwin-x64",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -805,7 +805,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.7.0/typst-lsp-darwin-arm64",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -813,7 +813,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.7.0/typst-lsp-darwin-x64",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -844,7 +844,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.7.0/typst-lsp-win32-arm64.exe",
-      "Arch": "386",
+      "Arch": "arm64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -879,7 +879,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.7.1/typst-lsp-darwin-arm64",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -887,7 +887,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.7.1/typst-lsp-darwin-x64",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -934,7 +934,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.7.1/typst-lsp-win32-x64.exe",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -953,7 +953,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.7.2/typst-lsp-darwin-arm64",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -961,7 +961,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.7.2/typst-lsp-darwin-x64",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -992,7 +992,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.7.2/typst-lsp-win32-arm64.exe",
-      "Arch": "386",
+      "Arch": "arm64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1008,7 +1008,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.7.2/typst-lsp-win32-x64.exe",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1038,7 +1038,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.0/typst-lsp-aarch64-apple-darwin",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -1077,8 +1077,8 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.0/typst-lsp-x86_64-apple-darwin",
-      "Arch": "386",
-      "Os": "windows",
+      "Arch": "amd64",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -1093,7 +1093,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.0/typst-lsp-x86_64-unknown-linux-gnu",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1101,7 +1101,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.0/typst-lsp-x86_64-unknown-linux-musl",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1112,7 +1112,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.1/typst-lsp-aarch64-apple-darwin",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -1151,8 +1151,8 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.1/typst-lsp-x86_64-apple-darwin",
-      "Arch": "386",
-      "Os": "windows",
+      "Arch": "amd64",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -1167,7 +1167,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.1/typst-lsp-x86_64-unknown-linux-gnu",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1175,7 +1175,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.1/typst-lsp-x86_64-unknown-linux-musl",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1186,7 +1186,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.2/typst-lsp-aarch64-apple-darwin",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -1225,8 +1225,8 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.2/typst-lsp-x86_64-apple-darwin",
-      "Arch": "386",
-      "Os": "windows",
+      "Arch": "amd64",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -1241,7 +1241,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.2/typst-lsp-x86_64-unknown-linux-gnu",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1249,7 +1249,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.2/typst-lsp-x86_64-unknown-linux-musl",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1260,7 +1260,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.3/typst-lsp-aarch64-apple-darwin",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -1299,15 +1299,15 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.3/typst-lsp-x86_64-apple-darwin",
-      "Arch": "386",
-      "Os": "windows",
+      "Arch": "amd64",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.3/typst-lsp-x86_64-pc-windows-msvc.exe",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1323,7 +1323,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.3/typst-lsp-x86_64-unknown-linux-musl",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1334,7 +1334,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.4/typst-lsp-aarch64-apple-darwin",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -1373,15 +1373,15 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.4/typst-lsp-x86_64-apple-darwin",
-      "Arch": "386",
-      "Os": "windows",
+      "Arch": "amd64",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.4/typst-lsp-x86_64-pc-windows-msvc.exe",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1389,7 +1389,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.4/typst-lsp-x86_64-unknown-linux-gnu",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1408,7 +1408,7 @@
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.5/typst-lsp-aarch64-apple-darwin",
       "Arch": "arm64",
-      "Os": "windows",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -1447,15 +1447,15 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.5/typst-lsp-x86_64-apple-darwin",
-      "Arch": "386",
-      "Os": "windows",
+      "Arch": "amd64",
+      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.5/typst-lsp-x86_64-pc-windows-msvc.exe",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1463,7 +1463,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.5/typst-lsp-x86_64-unknown-linux-gnu",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1471,7 +1471,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.9.5/typst-lsp-x86_64-unknown-linux-musl",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
