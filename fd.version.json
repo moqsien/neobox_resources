@@ -36,7 +36,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v4.0.0/fd-v4.0.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -86,14 +86,6 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v5.0.0/fd-v5.0.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/sharkdp/fd/releases/download/v5.0.0/fd-v5.0.0-x86_64-pc-windows-gnu.zip",
       "Arch": "386",
       "Os": "windows",
       "Sum": "",
@@ -101,7 +93,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/sharkdp/fd/releases/download/v5.0.0/fd-v5.0.0-x86_64-pc-windows-msvc.zip",
+      "Url": "https://github.com/sharkdp/fd/releases/download/v5.0.0/fd-v5.0.0-x86_64-pc-windows-gnu.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
@@ -109,8 +101,16 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v5.0.0/fd-v5.0.0-x86_64-pc-windows-msvc.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/sharkdp/fd/releases/download/v5.0.0/fd-v5.0.0-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -118,7 +118,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v5.0.0/fd-v5.0.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -160,7 +160,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v6.0.0/fd-v6.0.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -168,7 +168,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v6.0.0/fd-v6.0.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -184,7 +184,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v6.0.0/fd-v6.0.0-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -192,7 +192,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v6.0.0/fd-v6.0.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -234,7 +234,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v6.1.0/fd-v6.1.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -258,7 +258,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v6.1.0/fd-v6.1.0-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -316,7 +316,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v6.2.0/fd-v6.2.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -324,7 +324,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v6.2.0/fd-v6.2.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -340,7 +340,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v6.2.0/fd-v6.2.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -390,7 +390,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v6.3.0/fd-v6.3.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -398,7 +398,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v6.3.0/fd-v6.3.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -456,7 +456,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.0.0/fd-v7.0.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -464,7 +464,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.0.0/fd-v7.0.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -472,7 +472,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.0.0/fd-v7.0.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -488,7 +488,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.0.0/fd-v7.0.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -538,7 +538,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.1.0/fd-v7.1.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -562,7 +562,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.1.0/fd-v7.1.0-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -570,7 +570,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.1.0/fd-v7.1.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -620,14 +620,6 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.2.0/fd-v7.2.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/sharkdp/fd/releases/download/v7.2.0/fd-v7.2.0-x86_64-pc-windows-gnu.zip",
       "Arch": "386",
       "Os": "windows",
       "Sum": "",
@@ -635,8 +627,16 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/sharkdp/fd/releases/download/v7.2.0/fd-v7.2.0-x86_64-pc-windows-msvc.zip",
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.2.0/fd-v7.2.0-x86_64-pc-windows-gnu.zip",
       "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.2.0/fd-v7.2.0-x86_64-pc-windows-msvc.zip",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -652,7 +652,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.2.0/fd-v7.2.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -710,7 +710,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.3.0/fd-v7.3.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -718,7 +718,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.3.0/fd-v7.3.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -734,7 +734,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.3.0/fd-v7.3.0-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -800,7 +800,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.4.0/fd-v7.4.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -808,7 +808,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.4.0/fd-v7.4.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -816,7 +816,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.4.0/fd-v7.4.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -824,7 +824,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.4.0/fd-v7.4.0-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -832,7 +832,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.4.0/fd-v7.4.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -898,14 +898,6 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.5.0/fd-v7.5.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/sharkdp/fd/releases/download/v7.5.0/fd-v7.5.0-x86_64-pc-windows-msvc.zip",
       "Arch": "386",
       "Os": "windows",
       "Sum": "",
@@ -913,8 +905,16 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/sharkdp/fd/releases/download/v7.5.0/fd-v7.5.0-x86_64-unknown-linux-gnu.tar.gz",
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.5.0/fd-v7.5.0-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.5.0/fd-v7.5.0-x86_64-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -922,7 +922,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.5.0/fd-v7.5.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -980,7 +980,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.0.0/fd-v8.0.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -988,7 +988,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.0.0/fd-v8.0.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -996,7 +996,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.0.0/fd-v8.0.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1070,7 +1070,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.1.0/fd-v8.1.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1078,7 +1078,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.1.0/fd-v8.1.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1086,7 +1086,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.1.0/fd-v8.1.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1094,7 +1094,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.1.0/fd-v8.1.0-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1102,7 +1102,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.1.0/fd-v8.1.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1160,7 +1160,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.1.1/fd-v8.1.1-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1168,7 +1168,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.1.1/fd-v8.1.1-x86_64-pc-windows-gnu.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1184,7 +1184,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.1.1/fd-v8.1.1-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1250,7 +1250,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.2.0/fd-v8.2.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1266,7 +1266,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.2.0/fd-v8.2.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1274,7 +1274,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.2.0/fd-v8.2.0-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1282,7 +1282,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.2.0/fd-v8.2.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1340,7 +1340,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.2.1/fd-v8.2.1-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1348,7 +1348,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.2.1/fd-v8.2.1-x86_64-pc-windows-gnu.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1356,7 +1356,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.2.1/fd-v8.2.1-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1364,7 +1364,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.2.1/fd-v8.2.1-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1430,7 +1430,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.0/fd-v8.3.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1438,7 +1438,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.0/fd-v8.3.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1454,7 +1454,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.0/fd-v8.3.0-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1520,7 +1520,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.1/fd-v8.3.1-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1544,7 +1544,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.1/fd-v8.3.1-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1552,7 +1552,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.1/fd-v8.3.1-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1610,7 +1610,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.2/fd-v8.3.2-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1626,7 +1626,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.2/fd-v8.3.2-x86_64-pc-windows-msvc.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1634,7 +1634,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.2/fd-v8.3.2-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1724,7 +1724,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.4.0/fd-v8.4.0-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1732,7 +1732,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.4.0/fd-v8.4.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1798,7 +1798,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.0/fd-v8.5.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1822,7 +1822,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.0/fd-v8.5.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1880,7 +1880,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.1-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1904,7 +1904,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.1-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1978,14 +1978,6 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-x86_64-pc-windows-gnu.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
@@ -1993,8 +1985,16 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-x86_64-unknown-linux-gnu.tar.gz",
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-x86_64-pc-windows-msvc.zip",
       "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-x86_64-unknown-linux-gnu.tar.gz",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2068,7 +2068,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-x86_64-pc-windows-gnu.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2084,7 +2084,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2092,7 +2092,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2158,7 +2158,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-x86_64-pc-windows-gnu.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2166,7 +2166,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2174,7 +2174,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-x86_64-unknown-linux-gnu.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2182,7 +2182,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2240,7 +2240,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.7.0/fd-v8.7.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2256,7 +2256,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.7.0/fd-v8.7.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2330,7 +2330,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2346,7 +2346,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2362,7 +2362,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2420,7 +2420,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v9.0.0/fd-v9.0.0-x86_64-apple-darwin.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2436,7 +2436,7 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v9.0.0/fd-v9.0.0-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
