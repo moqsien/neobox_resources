@@ -18,7 +18,7 @@
     },
     {
       "Url": "https://github.com/zigtools/zls/releases/download/0.1.0/x86_64-linux.tar.xz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -34,7 +34,7 @@
     },
     {
       "Url": "https://github.com/zigtools/zls/releases/download/0.1.0/x86_64-windows.tar.xz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -68,7 +68,7 @@
     },
     {
       "Url": "https://github.com/zigtools/zls/releases/download/0.10.0/x86_64-linux.tar.zst",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -76,7 +76,7 @@
     },
     {
       "Url": "https://github.com/zigtools/zls/releases/download/0.10.0/x86_64-macos.tar.zst",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -142,7 +142,7 @@
     },
     {
       "Url": "https://github.com/zigtools/zls/releases/download/0.11.0/zls-x86_64-macos.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -184,7 +184,7 @@
     },
     {
       "Url": "https://github.com/zigtools/zls/releases/download/0.2.0/x86_64-macos.tar.xz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -192,7 +192,7 @@
     },
     {
       "Url": "https://github.com/zigtools/zls/releases/download/0.2.0/x86_64-windows.tar.xz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -218,7 +218,7 @@
     },
     {
       "Url": "https://github.com/zigtools/zls/releases/download/0.9.0/x86_64-linux.tar.xz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
