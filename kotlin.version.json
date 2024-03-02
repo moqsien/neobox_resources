@@ -34,7 +34,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.7.20/kotlin-native-linux-x86_64-1.7.20.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -44,7 +44,7 @@
   "v1.7.20-RC": [
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.7.20-RC/kotlin-native-windows-x86_64-1.7.20-RC.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -60,7 +60,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.7.20-RC/kotlin-native-linux-x86_64-1.7.20-RC.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -128,7 +128,7 @@
   "v1.7.22": [
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.7.22/kotlin-native-linux-x86_64-1.7.22.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -186,7 +186,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0/kotlin-native-windows-x86_64-1.8.0.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -236,7 +236,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0-Beta/kotlin-native-windows-x86_64-1.8.0-Beta.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -270,7 +270,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0-RC/kotlin-native-macos-x86_64-1.8.0-RC.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -278,7 +278,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0-RC/kotlin-native-windows-x86_64-1.8.0-RC.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -362,7 +362,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.10/kotlin-native-windows-x86_64-1.8.10.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -388,7 +388,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.20/kotlin-native-macos-x86_64-1.8.20.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -404,7 +404,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.20/kotlin-native-linux-x86_64-1.8.20.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -464,7 +464,7 @@
   "v1.8.20-RC": [
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.20-RC/kotlin-native-linux-x86_64-1.8.20-RC.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -514,7 +514,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.20-RC2/kotlin-native-linux-x86_64-1.8.20-RC2.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -530,7 +530,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.20-RC2/kotlin-native-macos-x86_64-1.8.20-RC2.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -538,7 +538,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.20-RC2/kotlin-native-windows-x86_64-1.8.20-RC2.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -572,7 +572,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.21/kotlin-native-macos-x86_64-1.8.21.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -580,7 +580,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.21/kotlin-native-windows-x86_64-1.8.21.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -590,7 +590,7 @@
   "v1.8.22": [
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.22/kotlin-native-linux-x86_64-1.8.22.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -682,7 +682,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.0-Beta/kotlin-native-linux-x86_64-1.9.0-Beta.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -706,7 +706,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.0-Beta/kotlin-native-macos-x86_64-1.9.0-Beta.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -724,7 +724,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.0-RC/kotlin-native-linux-x86_64-1.9.0-RC.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -740,7 +740,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.0-RC/kotlin-native-windows-x86_64-1.9.0-RC.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -766,7 +766,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.10/kotlin-native-linux-x86_64-1.9.10.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -782,7 +782,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.10/kotlin-native-macos-x86_64-1.9.10.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -808,7 +808,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20/kotlin-native-linux-x86_64-1.9.20.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -824,7 +824,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20/kotlin-native-macos-x86_64-1.9.20.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -832,7 +832,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20/kotlin-native-windows-x86_64-1.9.20.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -850,7 +850,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20-Beta/kotlin-native-linux-x86_64-1.9.20-Beta.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -874,7 +874,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20-Beta/kotlin-native-windows-x86_64-1.9.20-Beta.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -892,7 +892,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20-Beta2/kotlin-native-linux-x86_64-1.9.20-Beta2.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -916,7 +916,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20-Beta2/kotlin-native-windows-x86_64-1.9.20-Beta2.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -934,7 +934,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20-RC/kotlin-native-windows-x86_64-1.9.20-RC.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -992,7 +992,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20-RC2/kotlin-native-macos-x86_64-1.9.20-RC2.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1000,7 +1000,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20-RC2/kotlin-native-windows-x86_64-1.9.20-RC2.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1068,7 +1068,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.22/kotlin-native-macos-x86_64-1.9.22.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1102,7 +1102,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-Beta1/kotlin-native-windows-x86_64-2.0.0-Beta1.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1168,7 +1168,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-Beta2/kotlin-native-windows-x86_64-2.0.0-Beta2.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1186,7 +1186,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-Beta3/kotlin-native-prebuilt-linux-x86_64-2.0.0-Beta3.tar.gz",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1210,7 +1210,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-Beta3/kotlin-native-prebuilt-windows-x86_64-2.0.0-Beta3.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1228,7 +1228,7 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-Beta4/kotlin-native-prebuilt-linux-x86_64-2.0.0-Beta4.tar.gz",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
